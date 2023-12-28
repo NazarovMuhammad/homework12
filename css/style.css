@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+}
+.m{
+    width: 100%;
+    background-color: black;
+}
+.m1{
+    width: 20%;
+    box-shadow: 2px 2px 2px white;
+}
